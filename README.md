@@ -26,5 +26,7 @@ I work as a Web Developer at [Fundimisa](https://www.fundimisa.com.br/).
   <a href = "mailto:andre.1357.luis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anopszetex" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/anopszetex/anopszetex/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
