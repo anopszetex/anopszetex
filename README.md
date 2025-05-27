@@ -1,6 +1,6 @@
 # André Luiz
 
-I work as a Web Developer at [Fundimisa](https://www.fundimisa.com.br/).
+I work as a Web Developer at [Partithura](https://github.com/partithura).
 <div align="center">
   <a href="https://github.com/anopszetex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anopszetex&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
