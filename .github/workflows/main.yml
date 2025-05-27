@@ -12,13 +12,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: anopszetex
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List dist folder contents (debug)
+        run: ls -R dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
