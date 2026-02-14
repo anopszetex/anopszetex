@@ -1,6 +1,6 @@
 # André Luiz
 
-I work as a Web Developer at [Partithura](https://github.com/partithura).
+Senior Software Engineer at [Partithura](https://github.com/partithura).
 <div align="center">
   <a href="https://github.com/anopszetex">
 <img height="180em"
