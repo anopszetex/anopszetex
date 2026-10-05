@@ -1,32 +1,31 @@
 # André Luiz
 
-Senior Software Engineer at [Partithura](https://github.com/partithura).
+Senior Software Engineer at [Partithura](https://github.com/partithura), focado em **Node.js**, **TypeScript**, **GraphQL** e **APIs escaláveis**.
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
-   ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCkwLzgs9B68tfig4SM_houQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/andre_luisz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andre.1357.luis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anopszetex" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://raw.githubusercontent.com/anopszetex/anopszetex/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
+Gosto de entender como as coisas funcionam debaixo do capô: streams, worker threads, event loop, memory profiling e sistemas distribuídos. Atualmente estou aprofundando em **Go** e em arquitetura de software.
+
+## O que você encontra por aqui
+
+- **CLIs e ferramentas** com Node.js e boas práticas de engenharia.
+- **APIs GraphQL e REST** com testes, Docker e CI.
+- **Estudos de performance** em Node.js: memory leaks, clusters, worker threads e streams.
+- Projetos que ensinam enquanto resolvem problemas reais.
+
+## Stack principal
+
+`Node.js` · `TypeScript` · `GraphQL` · `Fastify` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+## Projetos em destaque
+
+- [`yt-dlp-cli-nodejs`](https://github.com/anopszetex/yt-dlp-cli-nodejs) — CLI interativa para download de vídeos com `yt-dlp`, ffmpeg e testes automatizados.
+- [`graphql-fastify-api`](https://github.com/anopszetex/graphql-fastify-api) — API GraphQL com Fastify, Mercurius, PostgreSQL e testes usando testcontainers.
+- [`gerenciamento-usuarios`](https://github.com/anopszetex/gerenciamento-usuarios) — API TypeScript com autenticação JWT, hash Argon2 e arquitetura em camadas.
+- [`memory-leak-example`](https://github.com/anopszetex/memory-leak-example) — Diagnóstico de vazamento de memória em Node.js com `0x`, `climem` e `autocannon`.
+- [`process-report`](https://github.com/anopszetex/process-report) — Processamento paralelo de grandes volumes com `child_process` e `streams`.
+- [`Graphql-AWS`](https://github.com/anopszetex/Graphql-AWS) — GraphQL serverless com Apollo Server v4 e AWS Lambda.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/anopszetex)
+- [Behance](https://www.behance.net/anopszetex)
+- [Email](mailto:andre.1357.luis@gmail.com)
